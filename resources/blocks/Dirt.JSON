@@ -1,0 +1,20 @@
+{
+  "Block_ID": 1,
+  "Attributes": {
+    "Interactable": false,
+    "Solid": true,
+    "Transparent": false,
+    "DropsItem": true
+  },
+
+  "TextureCoord1": 0,
+  "TextureCoord2": 0,
+  "TextureCoord3": 0,
+  "TextureCoord4": 0,
+  "TextureCoord5": 0,
+  "TextureCoord6": 0,
+
+  "Name": "Dirt",
+  "ItemToDrop": 1,
+  "AmountToDrop": 1
+}

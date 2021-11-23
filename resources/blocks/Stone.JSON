@@ -1,0 +1,20 @@
+{
+  "Block_ID": 0,
+  "Attributes": {
+    "Interactable": false,
+    "Solid": true,
+    "Transparent": false,
+    "DropsItem": true
+  },
+
+  "TextureCoord1": 3,
+  "TextureCoord2": 3,
+  "TextureCoord3": 3,
+  "TextureCoord4": 3,
+  "TextureCoord5": 3,
+  "TextureCoord6": 3,
+
+  "Name": "Stone",
+  "ItemToDrop": 1,
+  "AmountToDrop": 1
+}

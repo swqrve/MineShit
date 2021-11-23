@@ -1,0 +1,20 @@
+{
+  "Block_ID": 3,
+  "Attributes": {
+    "Interactable": false,
+    "Solid": true,
+    "Transparent": false,
+    "DropsItem": false
+  },
+
+  "TextureCoord1": 4,
+  "TextureCoord2": 4,
+  "TextureCoord3": 4,
+  "TextureCoord4": 4,
+  "TextureCoord5": 4,
+  "TextureCoord6": 4,
+
+  "Name": "Bedrock",
+  "ItemToDrop": 0,
+  "AmountToDrop": 0
+}
